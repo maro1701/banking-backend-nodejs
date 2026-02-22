@@ -1,4 +1,4 @@
-Banking Backend API
+**Banking Backend API**
 A RESTful banking built with Node.js, Express and PostgreSQL.
  Implements atomic money transfers using explicit database transactions and follows a layered architecture separating HTTP, business logic and data access.
 
